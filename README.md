@@ -14,7 +14,7 @@ Hey, Im Bruno Gomes
 
 - Git and GitHub
 - Mobile Application Develepment with Java (Android) and Swift (iOS) 
-- Javascript for backend develepment 
+- Javascript for backend development 
 - Online Python Bootcamp
 
 ## How to reach me 
