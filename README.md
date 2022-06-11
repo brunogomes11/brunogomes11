@@ -4,7 +4,7 @@ Hey, Im Bruno Gomes, student of Information Technology at Victoria University
 
 ![KangorooNFT](https://user-images.githubusercontent.com/70738873/173164699-9edbe544-0c7a-45a1-a1be-f97d1fe3851d.png)
 
-Born in Sao Paulo Brazil, living in Sydney, Australia 🌐
+Born in Sao Paulo, Brazil, living in Sydney, Australia 🌐
 
 ## My Hobbies
 
