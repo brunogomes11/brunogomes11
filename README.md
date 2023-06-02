@@ -1,30 +1,57 @@
 # Welcome to my profile
 
-Hey, Im Bruno Gomes, student of Information Technology at Victoria University
+Hey, I'm Bruno Gomes, a graduate in **Information Technology** from Victoria University.
 
-![KangorooNFT](https://user-images.githubusercontent.com/70738873/173164699-9edbe544-0c7a-45a1-a1be-f97d1fe3851d.png)
+<img src="https://user-images.githubusercontent.com/70738873/173164699-9edbe544-0c7a-45a1-a1be-f97d1fe3851d.png" width="500" height="500" >
 
-Born in Sao Paulo Brazil, living in Sydney, Australia 🌐
-
-## My Hobbies
-
-- Read
-- Play drums
-- Play videogame
-- Yoga
-- Play soccer
+Born in Sao Paulo, Brazil :brazil:, and currently living in Sydney, Australia :australia:	
 
 ## Currently Studying 
 
-- Git and GitHub
-- Mobile Application Develepment with Java (Android) and Swift (iOS) 
-- Javascript for backend development 
-- Online Python Bootcamp
+- :computer: **Software Engineering** Bootcamp at General Assembly
+
+## Courses:
+  * Udemy - [The Complete Web Development Bootcamp by Angela Yu](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+
+## Projects
+
+* [Web 3.0 Blockchain App with React](https://github.com/brunogomes11/WEB3.0)
+
+## Skills
+
+* Programming languages:
+  * Javascript :electron:
+  * Python :snake:
+* Frameworks and libraries:
+  * React
+  * Node.js
+* Tools:
+  * Git
+  * Github :octocat:
+  * VS Code
+
+## My Hobbies
+
+* :lotus_position_man: Practicing Yoga 	
+* :books: Reading books 	
+  * Computing & I.T.
+  * Self-Help
+  * Personal Development
+  * Religion & Beliefs
+  * Psychology
+* :drum: Playing drums 
+  * Rock
+  * Jazz
+  * Metal
+* :video_game: Playing video games 
+  * PS5
+* :soccer: Playing soccer 
+  * Fav team - :trophy: PALMEIRAS :trophy:
 
 ## How to reach me 
 
+- [LinkedIn](https://www.linkedin.com/in/bruno-gomes-11aba2157/)
 - GitHub @brunogomes11
 - Instagram @brunogomes011
 - Twitter @brunogomes011
-- LinkedIn https://www.linkedin.com/in/bruno-gomes-11aba2157/ 
 - Email brunogomes1198@gmail.com
