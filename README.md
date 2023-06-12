@@ -15,7 +15,8 @@ Born in Sao Paulo, Brazil :brazil:, and currently living in Sydney, Australia :a
 
 ## Projects
 
-* [Web 3.0 Blockchain App with React](https://github.com/brunogomes11/WEB3.0)
+* [Tick Tock Wordle](https://brunogomes11.github.io/Wordle/) - Check it out the repository by clicking [here](https://github.com/brunogomes11/Wordle)
+* [Keeper App](https://brunogomes11.github.io/Keeper-App-3/) - Check it out the repository by clicking [here](https://github.com/brunogomes11/Keeper-App-3)
 
 ## Skills
 
