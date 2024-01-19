@@ -1,29 +1,33 @@
 # Welcome to my profile
 
-Hey, I'm Bruno Gomes, a graduate in **Information Technology** from Victoria University.
+Hello! I'm Bruno Gomes, passionate about technology and innovation. I graduated in **Information Technology** from Victoria University and completed a **Software Engineering** Bootcamp at General Assembly.
 
 <img src="https://user-images.githubusercontent.com/70738873/173164699-9edbe544-0c7a-45a1-a1be-f97d1fe3851d.png" width="500" height="500" >
 
-Born in Sao Paulo, Brazil :brazil:, and currently living in Sydney, Australia :australia:	
+Exploring the world of code and beyond!
 
-## Currently Studying 
+Originally from Sao Paulo, Brazil :brazil:, I'm currently based in Sydney, Australia :australia:	
 
-- :computer: **Software Engineering** Bootcamp at General Assembly
+## Education and Learning Journey
 
-## Courses:
+  * Victoria University: Bachelor's in Information Technology.
+  * General Assembly: Software Engineering Bootcamp.
   * Udemy - [The Complete Web Development Bootcamp by Angela Yu](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 
-## Projects
+## Featured Projects
 
-* [Tick Tock Wordle](https://brunogomes11.github.io/Wordle/) - Check it out the repository by clicking [here](https://github.com/brunogomes11/Wordle)
-* [Keeper App](https://brunogomes11.github.io/Keeper-App-3/) - Check it out the repository by clicking [here](https://github.com/brunogomes11/Keeper-App-3)
+* [Tick Tock Wordle](https://brunogomes11.github.io/Wordle/) - A fun twist on the classic Wordle game. [Repository](https://github.com/brunogomes11/Wordle)
+* [Keeper App](https://brunogomes11.github.io/Keeper-App-3/) - Keep your notes organized. [Repository](https://github.com/brunogomes11/Keeper-App-3)
+* [SpendSmart](https://spendsmart-2n0e.onrender.com/) - Keep track of your finances. [Repository](https://github.com/brunogomes11/SpendSmart)
+* [SMARTLYDONE](https://smartlydone.onrender.com/) - AI will help accomplish things. [Repository](https://github.com/brunogomes11/smartlydone)
+* [Arcade Master](https://arcademaster.onrender.com/) - Trivia Game. [Repository](https://github.com/brunogomes11/react-game)
 
-## Skills
+## Technical Skills
 
-* Programming languages:
+* Programming Languages:
   * Javascript :electron:
   * Python :snake:
-* Frameworks and libraries:
+* Frameworks and Libraries:
   * React
   * Node.js
 * Tools:
@@ -31,28 +35,18 @@ Born in Sao Paulo, Brazil :brazil:, and currently living in Sydney, Australia :a
   * Github :octocat:
   * VS Code
 
-## My Hobbies
+## A Peek into My World
 
-* :lotus_position_man: Practicing Yoga 	
-* :books: Reading books 	
-  * Computing & I.T.
-  * Self-Help
-  * Personal Development
-  * Religion & Beliefs
-  * Psychology
-* :drum: Playing drums 
-  * Rock
-  * Jazz
-  * Metal
-* :video_game: Playing video games 
-  * PS5
-* :soccer: Playing soccer 
-  * Fav team - :trophy: PALMEIRAS :trophy:
+* :lotus_position_man: Yoga: For mind and body balance.
+* :books: Reading: From tech manuals to psychology and self-help.
+* :drum: Music: Drumming to the beats of rock, jazz, and metal.
+* :video_game: Gaming: Challenger on PS5 and PC.
+* :soccer: Soccer: Heart and soul for PALMEIRAS  :trophy:
 
-## How to reach me 
+## Connect with Me 
 
 - [LinkedIn](https://www.linkedin.com/in/bruno-gomes-11aba2157/)
 - GitHub @brunogomes11
 - Instagram @brunogomes011
-- Twitter @brunogomes011
+- X @brunogomes011
 - Email brunogomes1198@gmail.com
